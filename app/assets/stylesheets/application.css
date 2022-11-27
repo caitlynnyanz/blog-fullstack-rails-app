@@ -13,3 +13,14 @@
  *= require_tree .
  *= require_self
  */
+
+ #red {
+  color: red;
+ }
+
+ .navbar {
+  background-color: lightgreen;
+  font-family: 'Georgia';
+  padding: 20px;
+
+ }
